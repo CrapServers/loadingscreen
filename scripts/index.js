@@ -13,3 +13,4 @@ function SetStatusChanged(status) {
 function DownloadingFile(str) {
     log("Downloading " + str);
 };
+
