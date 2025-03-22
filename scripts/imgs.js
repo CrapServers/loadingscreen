@@ -1,5 +1,5 @@
 // This file contains all images used for the background element
-// PR YOUR IMAGES HERE!! :)
+// PR YOUR IMAGES HERE AND IN IMGS FOLDER!! :)
 // Format is: [username]_[img name]
 // Thanks!
 
