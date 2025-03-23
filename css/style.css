@@ -9,6 +9,7 @@ body {
 #serverTitle {
     text-align: center;
     background-color: #302f2faa;
+    border:#4e4e4e 2px solid
 }
 
 #mapName {
@@ -20,6 +21,8 @@ body {
     padding: 8px;
     overflow: hidden;
     text-overflow: clip;
+    border: #646464 2px solid;
+    /* height: 95%; I guess we cant do this?*/
 }
 
 #background {
